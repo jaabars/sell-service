@@ -16,7 +16,7 @@ public class UserController {
     public ResponseEntity<?> getCode(@RequestParam String login){
         /*
         * Реализовать получение 4-х значного кода на почту пользователя
-        *
+        * Hello from Git!!!!!!!!!!!!
         * */
         return null;
     }
